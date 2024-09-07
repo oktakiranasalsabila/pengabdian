@@ -11,7 +11,7 @@
     <header>
         <h1>Tentang Kami</h1>
         <nav>
-            <a href="index.php">Beranda</a> |
+            <a href="index.php">mengubah  data</a> |
             <a href="siswa.php">Daftar Siswa</a> |
             <a href="about.php">Tentang Kami</a>
         </nav>
